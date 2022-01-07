@@ -1,7 +1,7 @@
 # Tmux Work Dir
 
-In the working directory with Tmux,
-split the vim and the terminal for run command.
+In the working directory with Tmux,  
+split the vim and the terminal for run command.  
 (of course, it can be used for other than run command)
 
 ## Install
