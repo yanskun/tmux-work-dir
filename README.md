@@ -9,7 +9,7 @@ split the vim and the terminal for run command.
 Add plugin to the list of TPM plugins in `.tmux.conf`
 
 ```shell
-set -g @plugin 'tmux-plugins/tmux-cpu'
+set -g @plugin 'tmux-plugins/tmux-work-dir'
 ```
 
 Hit `prefix + I` to fetch the plugin and source it.
