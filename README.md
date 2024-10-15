@@ -12,11 +12,11 @@ Add plugin to the list of TPM plugins in `.tmux.conf`
 set -g @plugin 'tmux-plugins/tmux-work-dir'
 ```
 
-Hit `prefix + I` to fetch the plugin and source it.
+Hit `prefix + W` to fetch the plugin and source it.
 
 ## How to use
 
-[prefix + T]
+[prefix + W]
 
 https://user-images.githubusercontent.com/43776161/147765618-6c3e905b-9709-4e52-b486-ec6af497c78a.mov
 
